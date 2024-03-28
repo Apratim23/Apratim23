@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apratim23&label=Profile%20views&color=0e75b6&style=flat" alt="apratim23" /> </p>
 
-- 🌱 I’m currently learning **DSA, Full Stack Development**
+- 🌱 I’m currently learning **DSA, Full Stack Development**,I'm having a knack for Cybersecurity recently...
 
-- 💬 Ask me about **C,Java,C++**
+- 💬 Ask me about **C,Java,C++,SQL**
 
 - 📫 How to reach me **apratimdutta.2003@gmail.com**
 
