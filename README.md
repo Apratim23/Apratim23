@@ -1,5 +1,5 @@
 ![logo](https://github.com/Apratim23/Apratim23/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png)
-<h1 align="center">Hi 👋, I'm Apratim Dutta</h1>
+<h1 align="center">Hi 👋, I'm Apratim Dutta. Welcome to my Github page</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
