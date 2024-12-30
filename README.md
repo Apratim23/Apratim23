@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apratim23&label=Profile%20views&color=0e75b6&style=flat" alt="apratim23" /> </p>
 
-- 🌱 I’m currently learning **DSA and Development**,I am aspiring to be a DevOps Engineer 
+- 🌱 I’m currently learning **DSA and Development**,I am aspiring to be a DevOps Engineer, currently going through some AI-ML projects 
 
 - 💬 Ask me about **C, Java, C++, SQL, Linux**
 
