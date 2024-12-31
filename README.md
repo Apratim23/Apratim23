@@ -1,6 +1,6 @@
 ![logo](https://github.com/Apratim23/Apratim23/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png)
 <h1 align="center">Hi 👋, I'm Apratim Dutta. Welcome to my Github page</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">A passionate Computer Science Engineer</h3>
 
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
@@ -12,7 +12,7 @@
 
 - 📫 Here's how to reach me **apratimdutta.2003@gmail.com**
 
-- ⚡ Fun fact **I love Coding and Solving Problems**
+- ⚡ Fun fact **I love Coding and Solving Problems. I'm trying my hands on many things currently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
