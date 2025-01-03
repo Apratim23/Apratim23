@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning DSA and Development,I am aspiring to be a DevOps Engineer, currently going through some AI-ML projects<br><br>💬 Ask me about C, Java, C++, SQL, Linux<br><br>📫 Here's how to reach me apratimdutta.2003@gmail.com<br><br>⚡ Fun fact I love Coding and Solving Problems. I'm trying my hands on many things currently
+# 💫 MY NAME IS APRATIM:
+🌱 I’m currently learning DSA and Development, I am aspiring to be a DevOps Engineer, presently going through some AI-ML projects<br><br>💬 Ask me about C, Java, C++, SQL, Linux<br><br>📫 Here's how to reach me apratimdutta.2003@gmail.com<br><br>⚡ Fun fact I love Coding and Solving Problems. I'm trying my hands on many things currently
 
 
 ## 🌐 Socials:
