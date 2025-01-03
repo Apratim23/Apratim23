@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apratim23&show_icons=true&locale=en&layout=compact" alt="apratim23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apratim23&show_icons=true&locale=en" alt="apratim23" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-wine-nine-33.vercel.app/)/api?username=apratim23&show_icons=true&locale=en" alt="apratim23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apratim23&" alt="apratim23" /></p>
 
