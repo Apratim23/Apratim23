@@ -2,9 +2,7 @@
 🌱 I’m currently learning DSA and Development, I am aspiring to be a DevOps Engineer, presently going through some AI-ML projects<br><br>💬 Ask me about C, Java, C++, SQL, Linux<br><br>📫 Here's how to reach me apratimdutta.2003@gmail.com<br><br>⚡ Fun fact I love Coding and Solving Problems. I'm trying my hands on many things currently
 
 <p align="center"><img src="github-header-image.png" alt="Apratim's Profile Banner"/></p>
-
-
-<br>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Apratim23)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eZpsF6NR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apratim-dutta-78b5ba216) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apratimdutta.2003) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/6YwSocX0E) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Apratim-Dutta-14) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/National_Initial_885) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21167618) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ap_2000s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ApratimDutta7) 
@@ -31,9 +29,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Apratim23&limit=5&theme=shadow_green&combine_all_yearly_contributions=true) 
 
- </div>
-  <img height="auto" src="https://visitcount.itsvg.in/api?id=Apratim23&icon=6&color=7" alt="Total Profile Views" />
-  <div>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apratim786687) 
