@@ -7,11 +7,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eZpsF6NR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apratim-dutta-78b5ba216) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Apratim-Dutta-14) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/National_Initial_885) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21167618) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ap_2000s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ApratimDutta7) 
 
-# 💻 Tech Stack:   
-  <div>
-    <br><br>
-    <h2 align="center"> 💻 Skills 💻 </h2>
-    <div align="left">
+# 💻 Tech Stack:
+  <div align="left">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Jvb3JoOGtrd283bWgzcWJobmI1NnJqM2gxM3JuYXJocTIxdnY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="" width="45%%" height="auto" align="right">
       <h3>Programming Languages</h3>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
