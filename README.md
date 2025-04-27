@@ -42,6 +42,7 @@
      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="KaliLinux" />
     </div>
   </div>
+  
 # 📊 GitHub Stats:
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Apratim23)
