@@ -43,6 +43,7 @@
     </div>
   </div>
 # 📊 GitHub Stats:
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Apratim23)
 
 ![](https://github-readme-stats.vercel.app/api?username=Apratim23&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
