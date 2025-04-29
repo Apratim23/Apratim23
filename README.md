@@ -37,12 +37,12 @@
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-     <img src="	https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
       <h3>Cloud & DevOps</h3>
       <img src="" alt="" />
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="" alt="" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean" />
        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
@@ -50,11 +50,37 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github-Actions" />
         <img src="https://img.shields.io/badge/CI/CD-A04000?style=for-the-badge&logo=git&logoColor=white" alt="CI-CD" />
-      <h3>Tools and Platforms </h3>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-      <h3>Data Analysis</h3>
+       <h3>Tools and Platforms </h3>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE" />
+     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+     <img src="" alt="" />
+     <img src="" alt="" />
+     <img src="" alt="" />
+      <h3>Machine Learning & AI</h3>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
      <img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+     <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP" />
+     <img src="https://img.shields.io/badge/Model%20Deployment-0A9396?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment" />
+    <h3>Security and Testing</h3>
+      <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP-ZAP" />
+     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+     <img src="https://img.shields.io/badge/Supertest-20232A?style=for-the-badge&logo=testing-library&logoColor=white" alt="SuperTest" />
+     <img src="https://img.shields.io/badge/Vulnerability%20Scanning-F72585?style=for-the-badge" alt="Vulnerability Scanning" />
+     <img src="https://img.shields.io/badge/SQLi-E63946?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLInjection" />
+     <img src="https://img.shields.io/badge/XSS-FFB703?style=for-the-badge&logo=javascript&logoColor=white" alt="XSS" />
+     <img src="https://img.shields.io/badge/CSRF-219EBC?style=for-the-badge&logoColor=white" alt="CSRF" />
+     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger-UI" />
+    <h3> Monitoring, Logs, and Runtime</h3>
+     <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="NodeMon" />
+     <img src="https://img.shields.io/badge/Winston%20Logger-2C3E50?style=for-the-badge&logo=node.js&logoColor=white" alt="Winston Logger" />
+    <img src="https://img.shields.io/badge/Logtail-0A9396?style=for-the-badge" alt="Logtail" />
+     <img src="https://img.shields.io/badge/Spring%20Boot%20Actuator-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Actuator" />
       <h3>Operating Systems</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
