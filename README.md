@@ -93,7 +93,7 @@
   
 # 📊 GitHub Stats:
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Apratim23)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Apratim23)	
 
 ![](https://github-readme-stats.vercel.app/api?username=Apratim23&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
@@ -115,4 +115,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apratim786687) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
