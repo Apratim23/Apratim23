@@ -58,15 +58,15 @@
      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE" />
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-     <img src="" alt="" />
-     <img src="" alt="" />
-     <img src="" alt="" />
+     <img src="https://img.shields.io/badge/Nodemailer-Email_Service-yellowgreen?logo=gmail&logoColor=white" alt="NodeMailer" />
+     <img src="https://img.shields.io/badge/Cloudinary-Image_Storage-blue?logo=cloudinary&logoColor=white" alt="Cloudinary" />
       <h3>Machine Learning & AI</h3>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
      <img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
      <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP" />
      <img src="https://img.shields.io/badge/Model%20Deployment-0A9396?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <h3>Security and Testing</h3>
       <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP-ZAP" />
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -78,6 +78,7 @@
      <img src="https://img.shields.io/badge/XSS-FFB703?style=for-the-badge&logo=javascript&logoColor=white" alt="XSS" />
      <img src="https://img.shields.io/badge/CSRF-219EBC?style=for-the-badge&logoColor=white" alt="CSRF" />
      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger-UI" />
+     <img src="https://img.shields.io/badge/ArcherySec-API-blue?logo=target&logoColor=white" alt="ArcherySecAPI" />
     <h3> Monitoring, Logs, and Runtime</h3>
      <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="NodeMon" />
      <img src="https://img.shields.io/badge/Winston%20Logger-2C3E50?style=for-the-badge&logo=node.js&logoColor=white" alt="Winston Logger" />
