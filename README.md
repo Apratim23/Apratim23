@@ -61,7 +61,7 @@
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
      <img src="https://img.shields.io/badge/Nodemailer-Email%20Service-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="NodeMailer" />
-     <img src="https://img.shields.io/badge/Cloudinary-Image%20Hosting-blue?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+     <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge" alt="Cloudinary Badge">" 
     <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=for-the-badge" alt="Jinja Badge"/>
       <h3>Machine Learning & AI</h3>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
