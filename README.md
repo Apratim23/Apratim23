@@ -71,6 +71,7 @@
      <img src="https://img.shields.io/badge/Model%20Deployment-0A9396?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch Badge">
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy Badge">
     <h3>Security and Testing</h3>
       <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP-ZAP" />
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
