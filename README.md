@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/googlegemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="googlegemini"/>
       <img src="https://img.shields.io/badge/chatgpt-00E47C?style=for-the-badge&logo=chatgpt&logoColor=white" alt="chatgpt"/>
       <img src="https://img.shields.io/badge/claude-ED986C?style=for-the-badge&logo=claude&logoColor=white" alt="claude"/>
+      <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white" alt="notebooklm"/>
       <h3>Agentic AI and Intelligent Automation</h3>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
       <img src="https://img.shields.io/badge/zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="zapier"/>
