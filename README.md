@@ -16,6 +16,8 @@
 # 💻 Tech Stack:
   <div align="left">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Jvb3JoOGtrd283bWgzcWJobmI1NnJqM2gxM3JuYXJocTIxdnY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="" width="45%%" height="auto" align="right">
+      <h3>Agentic AI and Intelligent Automation</h3>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
       <h3>Programming Languages</h3>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
