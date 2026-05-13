@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="zapier"/>
       <img src="https://img.shields.io/badge/crewai-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="crewai"/>
       <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
-      <img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=https://lovable.dev/favicon.ico&logoColor=white" alt="Lovable"/>
+      <img src="https://img.shields.io/badge/Lovable-FF8E63?style=for-the-badge&logo=https://lovable.dev/favicon.ico&logoColor=white" alt="Lovable"/>
       <h3>Programming Languages</h3>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
